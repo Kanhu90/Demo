@@ -1,0 +1,10 @@
+ create table userreg(
+  username varchar2(10),
+  userpass varchar2(10)
+  );
+  create table client_description(
+  name varchar2(50),
+  id varchar2(50),
+  priority varchar2(50),
+  description varchar2(50)
+  );
